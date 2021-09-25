@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "coindcx-app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
